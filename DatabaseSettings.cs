@@ -4,7 +4,7 @@ public static class DatabaseSettings
 {
     // Server supplied by the user.
     // This configuration assumes Windows Authentication.
-    public const string ServerName = "LAWPRODSRVNEW";
+    public const string ServerName = "Server";
 
     public static string DevConnectionString =
         $@"Server={ServerName};
