@@ -2,14 +2,6 @@
 
 A pastel-themed C# WinForms explorer for large Microsoft SQL Server environments.
 
-## Configured SQL Server
-
-`LAWPRODSRVNEW`
-
-The default connection strings use Windows Authentication and target:
-
-- DEV
-- CTCOLLECT
 
 ## Search coverage
 
